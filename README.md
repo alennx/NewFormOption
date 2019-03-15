@@ -1,4 +1,4 @@
-# auto-textarea
+# NewFormOption
 
 > 基于vue+iview的表单拖拽生成器
 
